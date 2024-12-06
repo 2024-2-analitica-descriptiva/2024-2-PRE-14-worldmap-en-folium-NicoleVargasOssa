@@ -104,3 +104,12 @@ def make_worldmap():
     countries.to_csv("files/countries.csv")
     plot_world_map(countries)
 
+
+
+if __name__ == "__main__":
+    make_worldmap()
+    
+    
+    
+    
+    
